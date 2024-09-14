@@ -1,0 +1,37 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.landing-section-wrapper div{
+   display: inline-block;
+   width: 49%;
+   vertical-align: top;
+}
+
+.landing-section-wrapper{
+    background-color: #0056D2;
+    height: 100vh;
+    padding: 9rem;
+}
+.section-content-wrapper h1{
+    font-size: 3.2rem;
+    line-height: 1.4;
+    color: rgba(255, 255, 255, 0.88)
+}
+.section-content-wrapper p{
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(197, 196, 196);
+    margin-top: 20px;
+}
+.section-content-wrapper button{ 
+    padding: 7px 25px;
+    margin-top: 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 7px;
+    color: #0058d2c2;
+    font-weight: 800;
+}
+.content-image-wrapper img{
+    border-radius: 15px;
+}
